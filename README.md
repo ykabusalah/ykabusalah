@@ -25,6 +25,6 @@ When I'm not working, you can find me watching soccer or college football, divin
 
 ## Let's Connect
 
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+📧 **Email:** [ykabusalah@gmail.com](mailto:ykabusalah@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/yousefabusalah](https://www.linkedin.com/in/yousefabusalah)  
 🌐 **Website:** [ykabusalah.me](https://ykabusalah.me)
