@@ -1,6 +1,6 @@
 # Hey, I'm Yousef! 👋
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ykabusalah&color=blueviolet&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=ykabusalah&label=You%20are%20visitor%20%23&color=blueviolet&style=flat-square)
 
 ## About Me
 
@@ -25,6 +25,6 @@ When I'm not working, you can find me watching soccer or college football, divin
 
 ## Let's Connect
 
-📧 **Email:** [ykabusalah@gmail.com](mailto:ykabusalah@gmail.com)  
+📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
 💼 **LinkedIn:** [linkedin.com/in/yousefabusalah](https://www.linkedin.com/in/yousefabusalah)  
 🌐 **Website:** [ykabusalah.me](https://ykabusalah.me)
